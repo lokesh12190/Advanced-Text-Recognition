@@ -1,4 +1,4 @@
-# Advanced-Text-Recognition-with-Convolutional-Recurrent-Neural-Network-Integration
+# Convolutional Recurrent Neural Network
 Advanced Text Recognition with Convolutional Recurrent Neural Network Integration
 # Text Detection based on Convolutional Recurrent Neural Network (CRNN)
 
